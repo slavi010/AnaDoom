@@ -1,6 +1,9 @@
 # AnaDoom, Doom in Anaplan
 How I implemented the base of Doom in Anaplan.
 
+By:
+Sviatoslav BESNARD ([sbesnard@slavi.dev](mailto:sbesnard@slavi.dev))
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [How it works (in short)](#how-it-works-in-short)
