@@ -4,6 +4,8 @@ How I implemented the base of Doom in Anaplan.
 By:
 Sviatoslav BESNARD ([sbesnard@slavi.dev](mailto:sbesnard@slavi.dev))
 
+![CALC Replay_v7.gif](images/CALC_Replay_v7.gif)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [How it works (in short)](#how-it-works-in-short)
@@ -40,6 +42,8 @@ For now, only the first map (E1M1) of Doom is implemented. The switch between ma
 Since it's kind of impossible to implement an iterative algorithm. Each combination of pixel with the wall and floor/celling is calculated. That's why the game is so slow.
 
 > But it works!
+
+![anaplan_gameplay_x10.gif](images/anaplan_gameplay_x10.gif)
 
 ## Deep Dive
 ### Pre-requisites to understand
@@ -139,7 +143,7 @@ Well, imagine the lag if I double the size of the model...
 ### Fifth step: Display
 Now that we have the data, we need to display it.
 
-I already explained how the grid id made and its use of Conditional formatting.
+I already explained how the grid was made and its use of Conditional formatting.
 But did I mention the number of Conditional formatting rules? Yes, there are 255 rules. My browser is lagging when I try to edit the rules.
 
 I never add all the colors by hand.
