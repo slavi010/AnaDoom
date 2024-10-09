@@ -1,10 +1,12 @@
 # AnaDoom, Doom in Anaplan
 How I implemented the base of Doom in Anaplan.
 
-By:
-Sviatoslav BESNARD ([sbesnard@slavi.dev](mailto:sbesnard@slavi.dev))
+Author:
+Sviatoslav BESNARD ([pro@slavi.dev](mailto:sbesnard@slavi.dev))
 
 ![CALC Replay_v7.gif](images/CALC_Replay_v7.gif)
+
+> Yes ! The above gif is a real gameplay of Doom in Anaplan! (well maybe accelerated by 50x)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -43,7 +45,7 @@ Since it's kind of impossible to implement an iterative algorithm. Each combinat
 
 > But it works!
 
-![anaplan_gameplay_x10.gif](images/anaplan_gameplay_x10.gif)
+<img src="images/anaplan_gameplay_x10.gif" width="800px">
 
 ## Deep Dive
 ### Pre-requisites to understand
