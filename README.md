@@ -2,7 +2,7 @@
 How I implemented the base of Doom in Anaplan.
 
 Author:
-Sviatoslav BESNARD ([pro@slavi.dev](mailto:sbesnard@slavi.dev))
+Sviatoslav BESNARD ([pro@slavi.dev](mailto:pro@slavi.dev))
 
 ![CALC Replay_v7.gif](images/CALC_Replay_v7.gif)
 
